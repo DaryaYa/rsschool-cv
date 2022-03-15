@@ -1,7 +1,7 @@
 ## **Darya Yankouskaya**
 
-*Telephone number:* +375336376847  
-*E-mail:* darya.yankouskaya@gmail.com  
+*Telephone number:* +37533637****  
+*E-mail:* darya.yankovskaya@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/darya-yankouskaya-0a2524193/)  
 [GitHub](https://github.com/DaryaYa)  
 
