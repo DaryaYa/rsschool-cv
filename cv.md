@@ -1,8 +1,13 @@
 ## **Darya Yankouskaya**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 *Telephone number:* +3753363*****  
 *E-mail:* darya.yankovskaya@gmail.com  
+=======
+*Telephone number:* +375336376847  
+*E-mail:* darya.yankouskaya@gmail.com  
+>>>>>>> b62693b... Create cv.md
 =======
 *Telephone number:* +375336376847  
 *E-mail:* darya.yankouskaya@gmail.com  
