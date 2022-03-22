@@ -1,17 +1,7 @@
 ## **Darya Yankouskaya**
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 *Telephone number:* +3753363*****  
 *E-mail:* darya.yankovskaya@gmail.com  
-=======
-*Telephone number:* +375336376847  
-*E-mail:* darya.yankouskaya@gmail.com  
->>>>>>> b62693b... Create cv.md
-=======
-*Telephone number:* +375336376847  
-*E-mail:* darya.yankouskaya@gmail.com  
->>>>>>> b62693b... Create cv.md
 [LinkedIn](https://www.linkedin.com/in/darya-yankouskaya-0a2524193/)  
 [GitHub](https://github.com/DaryaYa)  
 
@@ -32,7 +22,7 @@ Novice frontend-developer with economical and linguistic education. Confident kn
 **Freelance**, 07.2019 – now;  
 
 **HTP**
-Content editor (01.17 - 08.17)
+Content editor (2017)
 [Project](https://prabook.com/web/dashboard.html)  
 
 **Projects**
